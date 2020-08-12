@@ -1,2 +1,2 @@
 # AERC
-#Sharing insights about the macroeconomic situation in Kazakhstan
+Sharing insights about the macroeconomic situation in Kazakhstan
